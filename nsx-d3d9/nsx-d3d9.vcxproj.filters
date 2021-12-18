@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="fgui\widgets\button.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\checkbox.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\colorpicker.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\combobox.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\container.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\itemselector.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\keybinder.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\label.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\listbox.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\multibox.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\slider.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\tabpanel.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\textbox.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="fgui\widgets\widgets.cpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\kiero.cpp">
+      <Filter>files\kiero</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\minhook\src\hde\hde32.c">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\minhook\src\hde\hde64.c">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\minhook\src\buffer.c">
+      <Filter>files\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\minhook\src\hook.c">
+      <Filter>files\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="kiero\minhook\src\trampoline.c">
+      <Filter>files\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="nsx.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fgui\dependencies\external\json.hpp">
+      <Filter>files\fgui\dependencies\external</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\internal\aliases.hpp">
+      <Filter>files\fgui\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\internal\helpers.hpp">
+      <Filter>files\fgui\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\misc\builder.hpp">
+      <Filter>files\fgui\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\internal\definitions.hpp">
+      <Filter>files\fgui\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\button.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\checkbox.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\colorpicker.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\combobox.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\container.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\itemselector.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\keybinder.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\label.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\listbox.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\multibox.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\slider.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\tabpanel.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\textbox.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\widgets\widgets.hpp">
+      <Filter>files\fgui\widgets</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\fgui.hpp">
+      <Filter>files\fgui</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\render.hpp">
+      <Filter>files\fgui</Filter>
+    </ClInclude>
+    <ClInclude Include="fgui\input.hpp">
+      <Filter>files\fgui</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks\hooks.h">
+      <Filter>files\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\kiero.h">
+      <Filter>files\kiero</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\hde\hde32.h">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\hde\hde64.h">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\hde\pstdint.h">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\hde\table32.h">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\hde\table64.h">
+      <Filter>files\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\buffer.h">
+      <Filter>files\kiero\minhook\src</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\src\trampoline.h">
+      <Filter>files\kiero\minhook\src</Filter>
+    </ClInclude>
+    <ClInclude Include="kiero\minhook\include\MinHook.h">
+      <Filter>files\kiero\minhook\include</Filter>
+    </ClInclude>
+    <ClInclude Include="menu\menu.h">
+      <Filter>files\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\native_thread.h">
+      <Filter>files\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.h">
+      <Filter>files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="files">
+      <UniqueIdentifier>{a2a9d0f7-e3f6-435c-bc6d-5240e011f262}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui">
+      <UniqueIdentifier>{fba26c41-1cdb-4227-a89d-65dc3da49b5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui\dependencies">
+      <UniqueIdentifier>{6fb526db-0b5c-4581-85d1-28f332d6853e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui\dependencies\external">
+      <UniqueIdentifier>{dc465f4d-0f60-4944-b434-c08b18a8a3d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui\internal">
+      <UniqueIdentifier>{927e0b81-4793-426a-a3fe-87ae1795000f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui\misc">
+      <UniqueIdentifier>{76ae0444-9358-426d-9fca-1f8ed9034c51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\fgui\widgets">
+      <UniqueIdentifier>{4f074c96-cdb0-42c9-a4ae-b209b15b6402}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\hooks">
+      <UniqueIdentifier>{29291f44-76ef-4a36-8c33-3e32c9edf766}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\kiero">
+      <UniqueIdentifier>{f74cb031-f553-4436-b3bc-2dc14bc758c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\kiero\minhook">
+      <UniqueIdentifier>{4d70fa75-ac00-4b6b-b949-26e2626d03cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\kiero\minhook\include">
+      <UniqueIdentifier>{0a0606b1-e5ef-45cd-b1cd-90889dd70989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\kiero\minhook\src">
+      <UniqueIdentifier>{708cd18b-73a4-41eb-bbbb-6e08a9c121c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\kiero\minhook\src\hde">
+      <UniqueIdentifier>{4c123d3e-fa29-4184-98dd-a2642c2708d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\menu">
+      <UniqueIdentifier>{2a10acc3-09ce-4075-96f6-c56b2f334319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\utilities">
+      <UniqueIdentifier>{9b6ece04-4d87-4952-ab25-46297cab2c39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
